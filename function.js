@@ -569,16 +569,18 @@
 // console.log(result);
 
 
-let str = "I am learning Programming to become a programmer";
-function getsplit (str){
-let biggerStr = "";
-for(let word of str.split(" ")){
-    if(word.length > biggerStr.length){
-        biggerStr = word;
-    }
-}
-return biggerStr;
-}
+// let str = "I am learning Programming to become a programmer";
+// function getsplit (str){
+// let biggerStr = "";
+// for(let word of str.split(" ")){
+//     if(word.length > biggerStr.length){
+//         biggerStr = word;
+//     }
+// }
+// return biggerStr;
+// }
 
-const result = getsplit(str);
-console.log(result);
+// const result = getsplit(str);
+// console.log(result);
+
+
